@@ -1,0 +1,6 @@
+01|Andres|TUTI
+02|Camila|Supermaxi
+03|Emilia|Coral
+04|Carlos|Milon
+05|Ernesto|CocaCola
+06|Juan|Pepsi
