@@ -47,9 +47,6 @@ javac -d out src/**/*.java
 java -cp out Main
 ```
 
-> Asegúrate de que los archivos `productos.txt` y `proveedores.txt` se encuentren junto al ejecutable o estén accesibles por el sistema.
-
----
 
 ##  Cómo Funciona el Programa
 
